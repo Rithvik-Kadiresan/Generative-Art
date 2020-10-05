@@ -1,4 +1,4 @@
-# Square Stars :star:
+# Square Stars :star:::eight_pointed_black_star::
 ## Created by Rithvik Kadiresan 
 ### Made with JavaScript in Processing
 
