@@ -1,4 +1,4 @@
-# Square Stars
+# Square Stars :star:
 ## Created by Rithvik Kadiresan 
 ### Made with JavaScript in Processing
 
@@ -15,6 +15,5 @@ In Proccessing | In P5.js
 
 
 
-Vartation 1 : <break>
-sdfljalsdkfjladskfjasldkfjlaskdfjalsdkfjlasdkfjlaskdfjlaksdjflksadjf
+Vartation 1 : 
 
