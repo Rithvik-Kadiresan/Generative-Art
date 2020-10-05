@@ -6,8 +6,6 @@ This code creates random lines that all span out from on origin point but the li
 
 If you want to change the colours you can:
 * <h4>In the Proccessing File:</h4>  play with the RGB Range in the Random fuctions in the Fill function:
-    * ```javascript
-    stroke(random(100,255),random(100,255),random(100,255));
-    ```
+    * stroke(random(100,255),random(100,255),random(100,255));
 
 Vartation 1
