@@ -10,8 +10,8 @@ If you want to change the colours you can:
 
 In Proccessing | In P5.js
 -------------- | -----------
-play with the RGB Range in the Random fuctions in the Fill function:|asdkjlaskjd
-    * stroke(random(100,255),random(100,255),random(100,255));|sjdlaksjdlas
+<h6>play with the RGB Range in the Random fuctions in the Fill function</h6>: stroke(random(100,255),random(100,255),random(100,255))|play with the RGB Range in the Random fuctions in the Fill function</h6>: stroke(random(100,255),random(100,255),random(100,255))
+
 
 
 
