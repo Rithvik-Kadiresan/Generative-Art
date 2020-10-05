@@ -1,5 +1,5 @@
 # Generative-Art.
-<h3>All the code for the art on my Github Page at : </h3>
+<h3>All the code for the art on my Github Page at : https://rithvik-kadiresan.github.io/Generative-Art./</h3>
 
 
 A series of creative coding files that can create computer generated art.
